@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(99,226,99);
+    font-family: Verdana;
+}
+.plcalculate{
+    text-align: center;
+    background-color: rgb(102,155,22);
+    width: 500px;
+    margin-left: 35%;
+    padding: 10px;
+}
+h2{
+    color: white;
+}
